@@ -38,6 +38,9 @@ It provides a clean and polished experience, with native AdBlock and browser-bas
 
 **PT (Linux)**
 
+ez way: just install the appimageand be happy
+
+
 ```bash
 pnpm install
 pnpm start
@@ -47,6 +50,10 @@ chmod +x dist/Nebula-1.0.0.AppImage
 ```
 
 **EN (Windows)**
+
+
+
+ez way: just install the exe and be happy
 
 ```bash
 pnpm install
