@@ -82,3 +82,7 @@ pnpm run dist
 **PT:** Pull requests são bem-vindos!
 **EN:** Pull requests are welcome!
 
+
+
+
+Inspo: https://github.com/th-ch/youtube-music
